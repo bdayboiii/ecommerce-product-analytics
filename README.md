@@ -168,24 +168,10 @@ Since this is above the 5% significance threshold, the observed improvement is *
 
 ---
 
-## Product Recommendation
-
-The treatment showed promising directional improvement, but the experiment does not provide sufficient statistical evidence for an immediate full rollout.
-
-I would:
-
-1. Run the experiment with a larger sample size.
-2. Continue measuring view-to-cart conversion as the primary KPI.
-3. Monitor downstream checkout and purchase conversion.
-4. Analyze whether the effect is consistent across product categories and price ranges.
-
-A larger experiment would provide stronger evidence before making a rollout decision.
-
----
-
 ## Product Prototype
 
-A Figma prototype was created to illustrate the proposed intervention.
+A low-fidelity product-page prototype was created to test the proposed intervention, with separate control and treatment variants.
+[View Figma Prototype](https://www.figma.com/design/jipFAdrKBgJhlzJQYyc9va/E-commerce-Product-Analytics---Experimentation)
 
 ### Control
 
