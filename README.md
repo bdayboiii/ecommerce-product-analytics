@@ -30,11 +30,11 @@ A synthetic e-commerce dataset was generated to simulate realistic user behavior
 
 The database contains:
 
-- 1,000 users
-- 200 products
+- 1,003 users
+- 203 products
 - 10,000 sessions
-- 15,793+ events
-- 1,200+ orders
+- 27,939 events
+- 4,887 orders
 
 ### Main event types
 
