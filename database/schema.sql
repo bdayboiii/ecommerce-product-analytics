@@ -20,7 +20,8 @@ CREATE TABLE events (
     product_id INT REFERENCES products(product_id),
     session_id VARCHAR(50),
     event_type VARCHAR(20),
-    event_timestamp TIMESTAMP
+    event_timestamp TIMESTAMP,
+    experiment_group VARCHAR(20)
 );
 
 CREATE TABLE orders (
