@@ -254,6 +254,7 @@ ecommerce-product-analytics/
 │   └── generate_data.py
 │
 ├── .gitignore
+├── requirements.txt
 └── README.md
 ```
 
